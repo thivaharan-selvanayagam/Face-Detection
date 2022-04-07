@@ -28,7 +28,7 @@ pip install opencv-python
 ## Project Structure
 - work with images
 ```
-Python faces.py
+Python face.py
 ```
 - work with video
 - work with realtime
