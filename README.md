@@ -8,8 +8,8 @@ Face detection is a computer technology being used in a variety of applications 
 Face detection using Haar cascades is a machine learning based approach where a cascade function is trained with a set of input data. OpenCV already contains many pre-trained classifiers for face, eyes, smiles, etc.
 
 ## Configuration
-- Ensure you can run Python from the command line
-  - Before you go any further, make sure you have Python and that the expected version is available from your command line. You can check this by running:
+### Ensure you can run Python from the command line
+Before you go any further, make sure you have Python and that the expected version is available from your command line. You can check this by running:
 ```
 py --version
 ```
