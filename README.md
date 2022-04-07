@@ -31,4 +31,7 @@ pip install opencv-python
 Python face.py
 ```
 - work with video
+```
+Python face-video.py
+```
 - work with realtime
